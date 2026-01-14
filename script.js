@@ -16,7 +16,7 @@
 
         // Exercise database
         const exercises = [
-            { id: 1, name: 'Bench Press', sets: '4x19', xp: 25 },
+            { id: 1, name: 'Bench Press', sets: '4x8', xp: 25 },
             { id: 2, name: 'Overhead Press', sets: '4x12', xp: 30 },
             { id: 3, name: 'Cardio', sets: '15min', xp: 20 },
             { id: 4, name: 'Tri Pushdown', sets: '2x10', xp: 25 },
